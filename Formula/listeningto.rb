@@ -1,4 +1,4 @@
-class Listeningto < Formula
+class ListeningTo < Formula
     desc ""
     homepage "https://github.com/aedenmurray/listeningto"
     url "https://files.aedenmurray.io/tools/listeningto.tar.gz"
