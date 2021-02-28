@@ -9,7 +9,7 @@ brew tap aedenmurray/tap
 ```
 The MIT License (MIT)
 
-Copyright (c) 2016 Rocky Madden (https://rockymadden.com/)
+Copyright (c) 2021 Aeden Murray (https://aedenmurray.io/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
